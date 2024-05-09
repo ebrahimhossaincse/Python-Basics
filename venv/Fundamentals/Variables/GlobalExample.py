@@ -1,4 +1,8 @@
 '''
+Global variables in Python are those that are declared outside of any function or class and can be accessed from anywhere within the script
+'''
+
+'''
 Example 1: Using a Global Variable Inside a Function
 '''
 # Define a global variable
@@ -30,7 +34,7 @@ my_function()
 # Print the value of the global variable after modification
 print("After modification:", global_var)
 
-sadfasdfasdfasdfasdfsad
+
 '''
 Example 3: Global Variable Inside Nested Functions
 '''
