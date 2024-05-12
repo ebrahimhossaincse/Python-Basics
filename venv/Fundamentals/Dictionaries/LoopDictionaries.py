@@ -7,7 +7,9 @@ my_dict = {
     "year": 1964
 }
 
-# Loop through the dictionary using a for loop to access keys
+'''
+Loop through the dictionary using a for loop to access keys
+'''
 print("Looping through the dictionary (keys):")
 for key in my_dict:
     print(key)
