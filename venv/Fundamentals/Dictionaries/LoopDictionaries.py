@@ -1,4 +1,6 @@
-# Define a dictionary
+'''
+Define a dictionary
+'''
 my_dict = {
     "brand": "Ford",
     "model": "Mustang",
