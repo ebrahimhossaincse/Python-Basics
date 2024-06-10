@@ -1,0 +1,17 @@
+#Example -01
+x = 9
+if x > 10: print("x is greater than 10")
+
+#Example -02
+print("x is greater than 10") if x>10 else print("x is less than 10")
+
+#Example -03
+age = 19
+allow = True
+print("You are eligible to admin") if age >= 18 and allow == True else print("You are not eligible to admin")
+
+#Example -04
+if age>= 18:
+    print("You are eligible to admin") if allow == True else print("You are not eligible to admin")
+else:
+    print("You are not eligible to admin")
